@@ -136,7 +136,7 @@ The Arkansas AI Foundry Hackathon challenges participants to create practical AI
    - Technologies used
    - Setup and installation instructions
    - Demo video or screenshots
-3. **Submit your project** through the hackathon platform by the deadline
+3. **Submit your project** by posting a link in this form:[https://docs.google.com/forms/d/e/1FAIpQLSeNRTsdV7vhC3jLNsBm1c5kjSXs9Tr8rGjcV1HdzqdbMnHq5Q/viewform?usp=dialog]
 
 ## 🧪 Example Projects
 
