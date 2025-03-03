@@ -8,17 +8,16 @@ The Arkansas AI Foundry Hackathon challenges participants to create practical AI
 
 ## 🗓️ Important Dates
 
-- **Registration Deadline**: [Insert Date]
-- **Kickoff Event**: [Insert Date]
-- **Submission Deadline**: [Insert Date]
-- **Demo Day & Awards**: [Insert Date]
+- **Kickoff Event**: 3/5/2025
+- **Submission Deadline**: 3/28/2025
+- **Demo Day & Awards**: Sometime early April
 
 ## 🏆 Prizes
 
-- **1st Place**: [Insert Prize]
-- **2nd Place**: [Insert Prize]
-- **3rd Place**: [Insert Prize]
-- **People's Choice Award**: [Insert Prize]
+- **1st Place**
+- **2nd Place**
+- **3rd Place**
+- **People's Choice Award**
 
 ## 💡 Challenge Tracks
 
@@ -168,7 +167,7 @@ You can also explore these additional project ideas:
 
 - Teams can consist of 1-4 members
 - All code must be original or properly attributed
-- Submissions must address one of the challenge tracks
+- Submissions must address a practical business problem
 - Projects must be submitted by the deadline
 
 ### Judging Criteria
@@ -182,8 +181,8 @@ You can also explore these additional project ideas:
 ## 📞 Contact
 
 For questions or support, please contact:
-- Email: [contact@arkansasaifoundry.com]
-- Twitter: [@ArkansasAIFoundry]
+- Email: [sam@arkansasaifoundry.org]
+- LinkedIn: [https://www.linkedin.com/company/arkansas-ai-foundry/]
 
 ## 📄 License
 
