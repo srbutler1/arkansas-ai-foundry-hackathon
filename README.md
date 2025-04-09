@@ -9,8 +9,8 @@ The Arkansas AI Foundry Hackathon challenges participants to create practical AI
 ## 🗓️ Important Dates
 
 - **Kickoff Event**: 3/5/2025
-- **Submission Deadline**: 3/28/2025
-- **Demo Day & Awards**: Sometime early April
+- **Submission Deadline**: 4/27/2025
+- **Demo Day & Awards**
 
 ## 🏆 Prizes
 
